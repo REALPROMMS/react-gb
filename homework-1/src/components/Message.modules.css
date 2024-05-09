@@ -1,0 +1,20 @@
+.message {
+	width: 500px;
+	height: 200px;
+	box-shadow: 0px 0px 10px 5px darkorchid;
+	border-radius: 25px;
+}
+
+.message__author {
+	color: white;
+	text-shadow: 2px 2px 5px darkorchid;
+	text-align: center;
+	text-decoration: underline;
+}
+
+.message__text {
+	color: white;
+	font-size: 30px;
+	letter-spacing: 5px;
+	text-align: center;
+}
